@@ -3,6 +3,10 @@ The official DRF tutorail. find it here - https://www.django-rest-framework.org/
 
 ___________________________________________________________________________________________________________
 ## Running the Application 
+#### cloning this repo
+```
+  git clone https://github.com/rayansailani/snippets.git
+```
 #### setting up virtual environment
 ```
   virtualenv env
